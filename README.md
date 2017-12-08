@@ -11,3 +11,4 @@ Links to final versions:
 * https://link.springer.com/article/10.1007/s40304-015-0078-6
 * http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005728
 * http://www.worldscientific.com/doi/abs/10.1142/S2010326315500197
+* https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iax013/
